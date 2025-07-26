@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# But don't ignore these files
+!.gitignore
+!app.py
+!authtoken.py
+!check.py
+
