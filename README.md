@@ -6,7 +6,6 @@
 
 ## 📸 Demo
 
-![App UI Screenshot](screenshot.png)  
 > *Enter a prompt and click Generate to create AI-powered images using Stable Diffusion.*
 
 ---
