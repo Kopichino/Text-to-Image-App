@@ -1,4 +1,4 @@
-# 🌟 Stable Bud - Text to Image Generator
+# 🌟 Text to Image Generator
 
 **Stable Bud** is a simple and interactive **text-to-image generator desktop app** built using Python's `tkinter`, `customtkinter`, and **Stable Diffusion** by Hugging Face. Just enter a prompt, and watch your imagination come to life!
 
